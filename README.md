@@ -7,6 +7,6 @@
 **Stručný popis implementácie:** readme2.pdf
 
 ### Parametry:
-- **help**
-- **source=file** vstupní soubor s XML reprezentací zdrojového kódu
-- **input=file** soubor se vstupy pro samotnou interpretaci zadaného zdrojového kódu.
+- **help** - nápoveda
+- **source=file** - vstupný súbor s XML reprezentáciou zdrojového kódu
+- **input=file** - súbor so vstupmi pre samotnú interpretáciu zadaného zdrojového kódu
