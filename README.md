@@ -4,6 +4,8 @@
 
 **Hodnotenie:** 6.7/8b
 
+**Stručný popis implementácie:** readme2.pdf
+
 ### Parametry:
 - **help**
 - **source=file** vstupní soubor s XML reprezentací zdrojového kódu
