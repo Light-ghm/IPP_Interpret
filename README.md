@@ -10,4 +10,4 @@
 - **help** - nápoveda
 - **source=file** - vstupný súbor s XML reprezentáciou zdrojového kódu
 - **input=file** - súbor so vstupmi pre samotnú interpretáciu zadaného zdrojového kódu
-- Aspoň jeden z parametrov (--source alebo --input) musí být vždy zadaný. Pokiaľ jeden z nich chýba, sú chýbajúce dáta načítané z stdin.
+Aspoň jeden z parametrov (--source alebo --input) musí být vždy zadaný. Pokiaľ jeden z nich chýba, sú chýbajúce dáta načítané z stdin.
